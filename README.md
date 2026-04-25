@@ -5,7 +5,7 @@ The feed URL you should put in your podcast client is: https://raw.githubusercon
 
 I was inspired by [this](https://github.com/yottalogical/hello-internet-archive) project which cleverly made an alternative feed for the podcast by simply linking to the old files which are still accessible, and also [this](https://old.reddit.com/r/HelloInternet/comments/1sukc4a/hi_episode_discussions_coming_in_1_week/) announcement to have the audience relisten on a particular schedule.
 
-This works by purely linking to the URLs that were published with the original release of the podcast, so there is no freebooting. Out of curiosity, I've modified the links for analytics with the publicly available [op3.dev](https://op3.dev/) service. You can see the analytics yourself [here](http://example.com).
+This works by purely linking to the URLs that were published with the original release of the podcast, so there is no freebooting. Out of curiosity, I've modified the links for analytics with the publicly available [op3.dev](https://op3.dev/) service. Once I have the analytics working I'll post a link for them here.
 
 Technically, it works by a Github Action that runs every day, and updates the feed according to the schedule.csv file. This then updates the feed.xml file with information already stored in the episodes.json file, which comes from the original RSS file and yottalogical's archive file. The first (or 0th, if you prefer) episode is a test so I can see that the system is working.
 
