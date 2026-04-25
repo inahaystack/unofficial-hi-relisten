@@ -19,7 +19,7 @@ from dateutil.parser import parse as parse_date  # pip install python-dateutil
 # ── Configuration ────────────────────────────────────────────────────────────
 
 FEED_TITLE       = "Unofficial Hello Internet Relisten"
-FEED_LINK        = "https://inahaystack.github.io/inahaystack/feed.xml"
+FEED_LINK        = "https://raw.githubusercontent.com/inahaystack/unofficial-hi-relisten/refs/heads/main/feed.xml"
 FEED_DESCRIPTION = "The original Hello Internet files, republished weekly in a new feed starting May 1st, 2026. For discussion, see the newly liberated subreddit http://old.reddit.com/r/HelloInternet. Long live the Tims!"
 FEED_IMAGE       = "https://raw.githubusercontent.com/inahaystack/unofficial-hi-relisten/refs/heads/main/Flaggy_Flag_Square.png"   # replace with actual artwork URL
 FEED_AUTHOR      = "Tim"
