@@ -2,18 +2,18 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Unofficial Hello Internet Relisten</title>
-    <link>https://inahaystack.github.io/inahaystack/feed.xml</link>
-    <description>The original Hello Internet files, republished weekly in a new feed starting May 1st, 2026. For discussion, see the newly liberated subreddit http://old.reddit.com/r/HelloInternet. Long live the Tims!</description>
+    <link>https://raw.githubusercontent.com/inahaystack/unofficial-hi-relisten/refs/heads/main/feed.xml</link>
+    <description>The original Hello Internet files, republished on Fridays starting May 1st, 2026. For discussion, see the newly liberated subreddit http://old.reddit.com/r/HelloInternet. Long live the Tims!</description>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 00:52:43 +0000</lastBuildDate>
-    <atom:link href="https://inahaystack.github.io/inahaystack/feed.xml/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 Apr 2026 01:03:08 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/inahaystack/unofficial-hi-relisten/refs/heads/main/feed.xml/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tim</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://raw.githubusercontent.com/inahaystack/unofficial-hi-relisten/refs/heads/main/Flaggy_Flag_Square.png" />
     <image>
       <url>https://raw.githubusercontent.com/inahaystack/unofficial-hi-relisten/refs/heads/main/Flaggy_Flag_Square.png</url>
       <title>Unofficial Hello Internet Relisten</title>
-      <link>https://inahaystack.github.io/inahaystack/feed.xml</link>
+      <link>https://raw.githubusercontent.com/inahaystack/unofficial-hi-relisten/refs/heads/main/feed.xml</link>
     </image>
     <item>
       <title>TEST EPISODE - You're a Grand Old Flag</title>
