@@ -1,7 +1,7 @@
 [
   {
     "guid": "test-episode-000",
-    "title": "TEST EPISODE - You're a Grand Old Flag",
+    "title": "Episode #0 (Test) - You're a Grand Old Flag",
     "original_pub_date": "",
     "link": "",
     "description_html": "<p>Hi, Tims. This is a test episode to make sure that the podcast feed is working. If you're interested in more information, please see https://github.com/inahaystack/unofficial-hi-relisten/.</p><p>In the spirit of Hello Internet, it's a public domain (no freebooting) song about a flag recorded on a wax cylinder.</p>",
