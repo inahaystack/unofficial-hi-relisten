@@ -27,7 +27,11 @@ jobs:
       - name: Install dependencies
         run: pip install python-dateutil
 
+#      - name: Generate feed.xml
+#        run: python3 generate_feed.py
       - name: Generate feed.xml
+        env:
+          FEED_DATE: "2026-05-08"
         run: python3 generate_feed.py
 
       - name: Commit and push feed.xml
