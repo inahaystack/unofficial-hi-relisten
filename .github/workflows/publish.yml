@@ -1,7 +1,7 @@
 name: Publish Feed
 
 on:
-  # Run every Friday at 08:00 UTC = 00:00 PST (UTC-8)
+  # Run every day at 08:00 UTC = 00:00 PST (UTC-8)
   schedule:
     - cron: "0 8 * * *"
 
