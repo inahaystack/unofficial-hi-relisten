@@ -11,6 +11,7 @@ Run in CI:    same command; GitHub Actions provides current time.
 
 import csv
 import json
+import os
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
 from email.utils import format_datetime
@@ -54,7 +55,9 @@ def atom(tag):
 def load_schedule():
     with open(SCHEDULE_FILE, newline="", encoding="utf-8") as f:
         return {row["guid"]: row for row in csv.DictReader(f)}
-
+import os
+_override = os.environ.get("FEED_DATE")
+now = datetime.fromisoformat(_override).replace(tzinfo=timezone.utc) if _override else datetime.now(timezone.utc)
 def load_episodes():
     with open(EPISODES_FILE, encoding="utf-8") as f:
         return {ep["guid"]: ep for ep in json.load(f)}
@@ -62,7 +65,8 @@ def load_episodes():
 # ── Build feed ────────────────────────────────────────────────────────────────
 
 def build_feed(schedule, episodes):
-    now = datetime.now(timezone.utc)
+    _override = os.environ.get("FEED_DATE")
+    now = datetime.fromisoformat(_override).replace(tzinfo=timezone.utc) if _override else datetime.now(timezone.utc)
 
     due = []
     for guid, row in schedule.items():
