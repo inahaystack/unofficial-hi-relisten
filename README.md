@@ -1,9 +1,9 @@
 # The Unofficial Hello Internet Relisten
-This feed will be automatically updated to publish an episode of Hello Internet weekly, starting Friday, May 1st, 2026. It's picked to coincide with a new weekly discussion on the [newly liberated](https://old.reddit.com/r/HelloInternet/comments/1st33b1/new_moderation_for_the_sub_transparency_and/) [/r/HelloInternet](https://old.reddit.com/r/HelloInternet/).
+This feed will be automatically updated to publish an episode of Hello Internet weekly, starting Friday, May 1st, 2026. It's picked to coincide with a new weekly discussion on the [/r/HelloInternet](https://old.reddit.com/r/HelloInternet/) subreddit which has been [newly liberated](https://old.reddit.com/r/HelloInternet/comments/1st33b1/new_moderation_for_the_sub_transparency_and/) .
 
 ## Feed URL
 
-The feed URL you should put in your podcast client is: https://raw.githubusercontent.com/inahaystack/unofficial-hi-relisten/refs/heads/main/feed.xml
+The feed URL to put in your podcast client is: `https://raw.githubusercontent.com/inahaystack/unofficial-hi-relisten/refs/heads/main/feed.xml`
 
 ## How it Works
 
@@ -14,7 +14,5 @@ Technically, it works by a Github Action that runs every day, and updates the fe
 ## Contributing
 
 I was inspired by [this](https://github.com/yottalogical/hello-internet-archive) project which cleverly made an alternative feed for the podcast by simply linking to the old files which are still accessible, and also [this](https://old.reddit.com/r/HelloInternet/comments/1sukc4a/hi_episode_discussions_coming_in_1_week/) announcement to have the audience relisten on a particular schedule.
-
-
 
 My programming skills are many years old and out of practice, so I had Claude assist with writing the scripts to generate this. Any PRs or advice from humans who know what they're doing is very welcome.
