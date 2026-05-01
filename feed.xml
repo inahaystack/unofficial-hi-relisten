@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/inahaystack/unofficial-hi-relisten/refs/heads/main/feed.xml</link>
     <description>The original Hello Internet files, republished on Fridays starting May 1st, 2026. For discussion, see the newly liberated subreddit http://old.reddit.com/r/HelloInternet. Long live the Tims!</description>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 04:16:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/inahaystack/unofficial-hi-relisten/refs/heads/main/feed.xml/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tim</itunes:author>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,39 @@
       <title>Unofficial Hello Internet Relisten</title>
       <link>https://raw.githubusercontent.com/inahaystack/unofficial-hi-relisten/refs/heads/main/feed.xml</link>
     </image>
+    <item>
+      <title>H.I. #1: Being Wrong on The Internet</title>
+      <pubDate>Fri, 01 May 2026 00:00:00 -0800</pubDate>
+      <guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:52ebe9a1e4b0fcbf56ea38b8</guid>
+      <link>http://www.hellointernet.fm/podcast/1</link>
+      <description>&lt;p&gt;Grey &amp;amp; Brady talk about what it's like to be wrong in front of thousands of people.&lt;/p&gt;
+
+&lt;h2 id="subscribe"&gt;Subscribe:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="http://feeds.podtrac.com/rZy85ymZYZc$"&gt;via RSS&lt;/a&gt;, &lt;a href="http://www.hellointernet.fm/itunes"&gt;via iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="relevantlinks"&gt;Relevant Links:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="http://www.cgpgrey.com/blog/the-united-kingdom-venn-diagram.html"&gt;List of the mistakes in Grey's UK video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.reddit.com/r/CGPGrey/comments/1x3guw/hello_internet_a_10_episode_podcast_experiment/"&gt;Discuss this episode on reddit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.hellointernet.fm/topic-suggestions"&gt;Suggest future topics for H.I.&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Grey &amp;amp; Brady talk about what it's like to be wrong in front of thousands of people.&lt;/p&gt;
+
+&lt;h2 id="subscribe"&gt;Subscribe:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="http://feeds.podtrac.com/rZy85ymZYZc$"&gt;via RSS&lt;/a&gt;, &lt;a href="http://www.hellointernet.fm/itunes"&gt;via iTunes&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id="relevantlinks"&gt;Relevant Links:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="http://www.cgpgrey.com/blog/the-united-kingdom-venn-diagram.html"&gt;List of the mistakes in Grey's UK video&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.reddit.com/r/CGPGrey/comments/1x3guw/hello_internet_a_10_episode_podcast_experiment/"&gt;Discuss this episode on reddit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.hellointernet.fm/topic-suggestions"&gt;Suggest future topics for H.I.&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <enclosure url="https://op3.dev/e/http://traffic.libsyn.com/hellointernet/HI201.mp3" type="audio/mpeg" length="0" />
+      <itunes:duration>00:38:45</itunes:duration>
+      <itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/52ebe9a1e4b0fcbf56ea38b8/1462385388877/1500w/Hello+Internet.003.png" />
+    </item>
     <item>
       <title>Episode #0 (Test) - You're a Grand Old Flag</title>
       <pubDate>Thu, 23 Apr 2026 00:00:00 -0800</pubDate>
