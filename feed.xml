@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/inahaystack/unofficial-hi-relisten/refs/heads/main/feed.xml</link>
     <description>The original Hello Internet files, republished on Fridays starting May 1st, 2026. For discussion, see the newly liberated subreddit http://old.reddit.com/r/HelloInternet. Long live the Tims!</description>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 10:04:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 10:11:50 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/inahaystack/unofficial-hi-relisten/refs/heads/main/feed.xml/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tim</itunes:author>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,53 @@
       <title>Unofficial Hello Internet Relisten</title>
       <link>https://raw.githubusercontent.com/inahaystack/unofficial-hi-relisten/refs/heads/main/feed.xml</link>
     </image>
+    <item>
+      <title>H.I. #3: Four Light Bulbs</title>
+      <pubDate>Fri, 15 May 2026 00:00:00 -0800</pubDate>
+      <guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:52fa6a6fe4b071a64a897add</guid>
+      <link>http://www.hellointernet.fm/podcast/3</link>
+      <description>&lt;p&gt;Brady &amp;amp; Grey talk work / life balance.&lt;/p&gt;
+
+&lt;h2 id="sponsor"&gt;Sponsor&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="http://www.squarespace.com/hellointernet"&gt;Squarespace makes it fast and easy to create your website. Use code HELLOINTERNET for 10% off.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="subscribe"&gt;Subscribe:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="http://www.hellointernet.fm/itunes"&gt;via iTunes&lt;/a&gt;, &lt;a href="http://feeds.podtrac.com/rZy85ymZYZc$"&gt;via RSS&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="relevantlinks"&gt;Relevant Links&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="http://www.reddit.com/r/CGPGrey/comments/1xmsvz/hi_3_four_light_bulbs/"&gt;Discuss this episode on reddit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.hellointernet.fm/topic-suggestions"&gt;Suggest topics for H.I.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.youtube.com/watch?v=PCu_BNNI5x4"&gt;Grandi's Series and Thomson's Lamp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://subbable.com/cgpgrey"&gt;CGP Grey Subbable&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Brady &amp;amp; Grey talk work / life balance.&lt;/p&gt;
+
+&lt;h2 id="sponsor"&gt;Sponsor&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="http://www.squarespace.com/hellointernet"&gt;Squarespace makes it fast and easy to create your website. Use code HELLOINTERNET for 10% off.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="subscribe"&gt;Subscribe:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="http://www.hellointernet.fm/itunes"&gt;via iTunes&lt;/a&gt;, &lt;a href="http://feeds.podtrac.com/rZy85ymZYZc$"&gt;via RSS&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="relevantlinks"&gt;Relevant Links&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="http://www.reddit.com/r/CGPGrey/comments/1xmsvz/hi_3_four_light_bulbs/"&gt;Discuss this episode on reddit&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.hellointernet.fm/topic-suggestions"&gt;Suggest topics for H.I.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.youtube.com/watch?v=PCu_BNNI5x4"&gt;Grandi's Series and Thomson's Lamp&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://subbable.com/cgpgrey"&gt;CGP Grey Subbable&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <enclosure url="https://op3.dev/e/http://traffic.libsyn.com/hellointernet/HI20320--20Four20Light20Bulbs.mp3" type="audio/mpeg" length="0" />
+      <itunes:duration>00:48:05</itunes:duration>
+      <itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/52fa6a6fe4b071a64a897add/1462385347917/1500w/Hello+Internet.003.png" />
+    </item>
     <item>
       <title>H.I. #2: Copyright Not Intended</title>
       <pubDate>Fri, 08 May 2026 00:00:00 -0800</pubDate>
