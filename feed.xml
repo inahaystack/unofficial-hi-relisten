@@ -5,7 +5,7 @@
     <link>https://raw.githubusercontent.com/inahaystack/unofficial-hi-relisten/refs/heads/main/feed.xml</link>
     <description>The original Hello Internet files, republished on Fridays starting May 1st, 2026. For discussion, see the newly liberated subreddit http://old.reddit.com/r/HelloInternet. Long live the Tims!</description>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 10:53:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 11:17:19 +0000</lastBuildDate>
     <atom:link href="https://raw.githubusercontent.com/inahaystack/unofficial-hi-relisten/refs/heads/main/feed.xml/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Tim</itunes:author>
     <itunes:explicit>no</itunes:explicit>
@@ -15,6 +15,53 @@
       <title>Unofficial Hello Internet Relisten</title>
       <link>https://raw.githubusercontent.com/inahaystack/unofficial-hi-relisten/refs/heads/main/feed.xml</link>
     </image>
+    <item>
+      <title>H.I. #6: Delete, Flag, Delete, Reply</title>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 -0800</pubDate>
+      <guid isPermaLink="false">52d66949e4b0a8cec3bcdd46:52d67282e4b0cca8969714fa:531e120de4b0a09d95869026</guid>
+      <link>http://www.hellointernet.fm/podcast/6</link>
+      <description>&lt;p&gt;Grey &amp;amp; Brady talk about clutter, Tesla Motors and Email&lt;/p&gt;
+
+&lt;h2 id="sponsor"&gt;Sponsor&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="http://www.audible.com/hellointernet"&gt;Audible.com: Get a FREE audiobook and 30-day trial today by signing up at www.audible.com/hellointernet&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="subscribe"&gt;Subscribe:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="http://www.hellointernet.fm/itunes"&gt;via iTunes&lt;/a&gt;, &lt;a href="http://feeds.podtrac.com/rZy85ymZYZc$"&gt;via RSS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.reddit.com/r/CGPGrey/comments/202yr4/hi_6_delete_flag_delete_reply/"&gt;Discuss this episode&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.reddit.com/r/pics/comments/1ri5ot/there_are_a_lot_of_beautiful_homes_this_one_is/"&gt;A Beautiful Home&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.cgpgrey.com/mountain-house-clutter"&gt;All the pointless crap in the above&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=z9UjeTMb3Yk"&gt;Merlin Mann's Inbox Zero talk&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://itunes.apple.com/gb/app/drafts-for-ipad-quickly-capture/id542797283?mt=8&amp;amp;uo=4&amp;amp;at=11l5Fy"&gt;Drafts for iPad / iPhone&lt;/a&gt;&lt;/p&gt;</description>
+      <content:encoded>&lt;p&gt;Grey &amp;amp; Brady talk about clutter, Tesla Motors and Email&lt;/p&gt;
+
+&lt;h2 id="sponsor"&gt;Sponsor&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="http://www.audible.com/hellointernet"&gt;Audible.com: Get a FREE audiobook and 30-day trial today by signing up at www.audible.com/hellointernet&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id="subscribe"&gt;Subscribe:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href="http://www.hellointernet.fm/itunes"&gt;via iTunes&lt;/a&gt;, &lt;a href="http://feeds.podtrac.com/rZy85ymZYZc$"&gt;via RSS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.reddit.com/r/CGPGrey/comments/202yr4/hi_6_delete_flag_delete_reply/"&gt;Discuss this episode&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.reddit.com/r/pics/comments/1ri5ot/there_are_a_lot_of_beautiful_homes_this_one_is/"&gt;A Beautiful Home&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://www.cgpgrey.com/mountain-house-clutter"&gt;All the pointless crap in the above&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=z9UjeTMb3Yk"&gt;Merlin Mann's Inbox Zero talk&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://itunes.apple.com/gb/app/drafts-for-ipad-quickly-capture/id542797283?mt=8&amp;amp;uo=4&amp;amp;at=11l5Fy"&gt;Drafts for iPad / iPhone&lt;/a&gt;&lt;/p&gt;</content:encoded>
+      <enclosure url="https://op3.dev/e/http://traffic.libsyn.com/hellointernet/6.mp3" type="audio/mpeg" length="0" />
+      <itunes:duration>01:30:37</itunes:duration>
+      <itunes:image href="https://static1.squarespace.com/static/52d66949e4b0a8cec3bcdd46/52d67282e4b0cca8969714fa/531e120de4b0a09d95869026/1462385289675/1500w/" />
+    </item>
     <item>
       <title>H.I. #5: Freebooting</title>
       <pubDate>Fri, 29 May 2026 00:00:00 -0800</pubDate>
